@@ -1,0 +1,5 @@
+# use `pip install -r requirement.txt` to install packages 
+numpy
+matplotlib
+pandas
+sklearn
